@@ -9,3 +9,4 @@ spec:
   policyTypes:
   - Ingress
  
+ # now pods in roboshop namespace denies all incoming traffic including pods with in the namespace
